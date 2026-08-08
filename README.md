@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/N1k0droid/N1k0droid/blob/main/top-languages.svg" alt="Top languages" />
-</p>
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
   <div style="flex: 1; max-width: 45%;">
       <img align="left" width="50%" alt="metrics" src="https://github.com/N1k0droid/N1k0droid/blob/main/github-metrics.svg">
