@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1k0droid&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github.com/N1k0droid/N1k0droid/blob/main/top-languages.svg" alt="Top languages" />
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
