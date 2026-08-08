@@ -19,19 +19,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1k0droid&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N1k0droid/N1k0droid/output/matrix-rain-v2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N1k0droid/N1k0droid/output/matrix-rain-v2-light.svg" />
-    <img alt="Matrix Rain Contribution Graph" src="https://raw.githubusercontent.com/N1k0droid/N1k0droid/output/matrix-rain-v2-dark.svg" />
-  </picture>
-</p>
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
   <div style="flex: 1; max-width: 45%;">
       <img align="left" width="50%" alt="metrics" src="https://github.com/N1k0droid/N1k0droid/blob/main/github-metrics.svg">
   </div>
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
+    <h3>🔍 What you'll find here</h3>
+    <ul>
+      <li>Projects born from curiosity, not roadmaps</li>
+      <li>Experiments that may (or may not) be useful</li>
+      <li>Tools and configs I wish existed before I built them</li>
+      <li>Occasional RF / radio stuff, because antennas are fun</li>
+    </ul>
     <h3>📡 About Me</h3>
     <p>
       Curiosity-driven builder living somewhere between networking, electronics, IoT and security.<br/>
@@ -40,3 +39,11 @@
     </p>
   </div>
 </div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N1k0droid/N1k0droid/output/matrix-rain-v2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N1k0droid/N1k0droid/output/matrix-rain-v2-light.svg" />
+    <img alt="Matrix Rain Contribution Graph" src="https://raw.githubusercontent.com/N1k0droid/N1k0droid/output/matrix-rain-v2-dark.svg" />
+  </picture>
+</p>
