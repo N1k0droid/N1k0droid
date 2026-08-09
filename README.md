@@ -18,7 +18,7 @@
         <p>
           Computer and Network Engineer by day, relentless maker and DIY enthusiast by night.<br/><br/>
           I thrive at the intersection of electronics, systems, and coding. Driven by an insatiable curiosity, I'm constantly chasing new challenges and taking things apart just to build them better.<br/><br/>
-          Also a ham radio operator—because exploring the RF spectrum is just another way to decode the invisible world.
+          Also a ham radio operator because exploring the RF spectrum is just another way to decode the invisible world.
         </p>
         <h3>What you'll find here</h3>
         <ul>
