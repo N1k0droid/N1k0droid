@@ -37,7 +37,7 @@
   <br />
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,py,git,github,githubactions,docker,arduino,raspberrypi,kali,postgres,grafana,prometheus,nginx,vscode&theme=dark&perline=15" alt="Skills and tools" />
+    <img src="https://skillicons.dev/icons?i=linux,redhat,bash,py,git,github,githubactions,docker,arduino,raspberrypi,kali,mysql,grafana,nginx,vscode&theme=dark&perline=15" alt="Skills and tools" />
   </a>
 
   <br /><br />
