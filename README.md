@@ -38,14 +38,14 @@
     </tr>
   </table>
 
-  <br />
-
+  <img src="https://raw.githubusercontent.com/N1k0droid/N1k0droid/main/toolkit.svg" alt="Toolkit">
+  <br /><br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,redhat,bash,py,git,github,githubactions,docker,arduino,raspberrypi,kali,mysql,grafana,nginx,vscode&theme=dark&perline=15" alt="Skills and tools" />
   </a>
-
   <br /><br />
-  
+  <img src="https://raw.githubusercontent.com/N1k0droid/N1k0droid/main/activity.svg" alt="Activity">
+  <br /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N1k0droid/N1k0droid/output/matrix-rain-v2-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N1k0droid/N1k0droid/output/matrix-rain-v2-light.svg" />
