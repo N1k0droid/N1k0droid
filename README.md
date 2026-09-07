@@ -30,6 +30,9 @@
       </td>
       <td width="50%" valign="top" align="center">
         <img alt="metrics" src="https://github.com/N1k0droid/N1k0droid/blob/main/github-metrics.svg" width="100%">
+        <a href="https://www.credly.com/users/nicola-carmelo-gurgone.c56f2011">
+          <img src="https://img.shields.io/badge/Credly-My_Certifications-orange?logo=credly&logoColor=white" alt="Credly Certifications">
+        </a>
       </td>
     </tr>
   </table>
